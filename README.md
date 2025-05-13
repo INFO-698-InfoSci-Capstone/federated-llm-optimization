@@ -17,7 +17,7 @@ It improves upon previous methods such as **FedIT** and **FLoRA** by achieving:
 - Greater scalability across client capabilities.
 
 <p align="center">
-  <img src="figures/workflow.png" width="600"/>
+  <img src="analysis/figures/workflow.png" width="600"/>
 </p>
 
 ---
